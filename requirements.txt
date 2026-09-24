@@ -1,0 +1,7 @@
+flask
+requests
+supabase
+python-dotenv
+sentence-transformers
+PyMuPDF
+langchain-text-splitters
